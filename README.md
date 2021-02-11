@@ -1,12 +1,12 @@
 # UnitySDR
-UnitySDR is a beginner-friendly cross-platform sdr client using the SoapySDR library and Electron to package the application.
+UnitySDR is a beginner-friendly cross-platform sdr client using the [SoapySDR](https://github.com/pothosware/SoapySDR) library and [Electron](https://github.com/electron/electron) to package the application.
 
 Currently in a non-working state of development. I am creating this project as a labor of love.
 I am somewhat of a beginner in software-defined radio, however i can see the need for
 cross-platform software that is easy to use and reasonably feature rich.
 
 looking for developers to contribute their knowledge, specifically anyone that knows how to interact with the 
-SoapySDR library. I am just one person right now, and I work full time, so I can only really work on this during my free time.
+[SoapySDR](https://github.com/pothosware/SoapySDR) library. I am just one person right now, and I work full time, so I can only really work on this during my free time.
 I am actively learning how to interact with this library better but it will take some time!
 
 # Proposed Features
@@ -32,8 +32,8 @@ As this project is going to be built with both seasoned sdr users and beginners 
 worth looking into the possibility of cool features, and nothing is necessarily too ambitious with the right people working the problem!
 
 # Help Wanted
-Currently I would love if anyone that is very familiar with the SoapySDR Library could help out with the backend. Im pretty seasoned in
-front-end web development in html/css/js, but I am rather unfamiliar with Node.js and Electron, as well as working with low level
+Currently I would love if anyone that is very familiar with the [SoapySDR](https://github.com/pothosware/SoapySDR)) Library could help out with the backend. Im pretty seasoned in
+front-end web development in html/css/js, but I am rather unfamiliar with Node.js and [Electron](https://github.com/electron/electron), as well as working with low level
 drivers and libraries to get the data they return.
 
 feel free to send any email discussion to wnstudiosky@gmail.com
